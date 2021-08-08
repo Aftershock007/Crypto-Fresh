@@ -35,6 +35,13 @@
     0 0 80px #00b3ff, 0 0 120px #00b3ff;
 }
 
+.coin-text-p {
+  font-size: 10px;
+  color: #fff;
+  margin-left: 266px;
+  margin-top: -30px;
+}
+
 .coin-input {
   font-size: 15px;
   padding-left: 16px;

@@ -44,6 +44,7 @@ function App() {
         <Fade big>
           <h1 className="coin-text">Crypto Fresh</h1>
         </Fade>
+        <p className="coin-text-p">by Arijit</p>
         <RadialChart data={myData} width={285} height={300} />
         <form>
           <input
