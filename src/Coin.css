@@ -74,20 +74,11 @@
   color: #11d811;
 }
 
-@media (max-width: 411px) {
-  .coin-container {
-    margin-left: 55.8rem;
+@media (max-width: 450px) {
+  .coin-row {
+    margin-left: 55rem;
   }
   .coin-price {
-    margin-left: -63px;
-  }
-  .coin-volume {
-    margin-left: -55rem;
-  }
-  .coin-percent {
-    margin-left: -55rem;
-  }
-  .coin-marketcap {
-    margin-left: -50rem;
+    margin-left: -3rem;
   }
 }
